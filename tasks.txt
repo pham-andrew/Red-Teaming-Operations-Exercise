@@ -1,0 +1,7 @@
+Identify where the public website is hosted
+    https://learnaboutsecurity.com/
+Identify which email provider the company uses (if any)
+    
+Confirm any content management system (CMS) deployed on the web servers (DMZ and Public)
+
+Identify Software and services being used on the targets

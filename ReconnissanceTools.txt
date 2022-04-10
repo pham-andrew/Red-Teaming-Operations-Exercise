@@ -1,0 +1,30 @@
+Reconnissance Tools
+
+WHOIS: This is a database that stores domain names and the individual to whom its registered
+Shodan: This is a robust tool that can be used for passive recon and beyond… Shodan is a search engine for devices that are reachable from the internet.
+Netcraft: You can use Netcraft to find out more information about your targets network, SSL/TLS, hosting history, sender policy framework among to name a few
+Archive.org: Like a library it is a digital archive of the internet. Using this method you will be able to see how your target has evolved over time.
+Creepy: This is a tool that gathers data from social networks like Twitter, Instagram and other online sources to give you geographical information of when people make their posts.
+
+Domain Dossier: This is a tool that investigated domain names and IP addresses. Using this web application, you are able to collect your target’s who is record, DNS records, traceroute information and a service scan is performed
+Traceroute: A popular network diagnostic tool that reveals the route that is taken in order to reach your target. This information can prove to be valuable when you are trying to map out your target network.
+Email Dossier: Another tool that allows you to check if an email address is in use as well as the MX records that are associated with that email.
+Discover: In Kali Linux you can use the discover script to gather information using a single script.
+MXToolBox: This site will list MX records for a domain. You can even paste and email header on this site and be able to track the sender’s location with the output provided.
+Additional Reconnaissance Tools:
+Maltego: This tool is used to enumerate the targets system. By enumerating we are able to list out the target assets by the numbers. Maltego is a powerful tool because it can enumerate your target assets and show the relationship between them
+Recon-ng: This is a free web reconnaissance tool. This tool automates the process of gathering information quickly from open source web information.
+
+TweetBeaver: Twitter recon tool.
+
+Netcraft: You can use Netcraft to find out more information about your targets network, SSL/TLS, hosting history, sender policy framework among to name a few.
+Red Hawk: An All inclusive tool that can be used for Reverse IP lookup, WP Scan, Crawler, MX Lookup, SQL Scanner and more.
+Wappalyzer: A web browser extension that shows what a website is built with. You can discover website framework, programming language and software modules using this tool.
+WhatWeb: A CLI tool pre-built in Kali Linux. It is used to identify different web technologies.
+
+Airmon-ng: A wireless detection tool pre-built inside Kali Linux. This tool is used to monitor Wireless Access Points (WAP) within your environment.
+
+Netdiscover: Used to discover devices on the internal network
+NMAP Aggressive Scan: This scan will uncover several things about your target device. This include, IP open ports, protocols, version number and more
+Directory Buster (aka Dirb): This tool will guess file directories on the target device using a wordlist. If the page guess resolves a real web page, dirb will output the directory path to the scanner.
+
